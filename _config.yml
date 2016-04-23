@@ -1,0 +1,28 @@
+name: Jordanology
+favicon: null
+layout_spectrum: 0.2811562295537442
+typography_spectrum: 0.19932630681432784
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9172237117309123
+  lightness: 0.5507053087931126
+  saturation: 0.46270313230343163
+  rhythmicContrast: 0.4929753995966166
+purpose: []
